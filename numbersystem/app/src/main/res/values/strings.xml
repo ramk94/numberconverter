@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">numbersystem</string>
+    <string name="BINTODEC">BINARY->DECIMAL</string>
+    <string name="DECTOBIN">DECIMAL->BINARY</string>
+    <string name="BINTOHEX">BINARY->HEX</string>
+    <string name="HEXTOBIN">HEX->BINARY</string>
+    <string name="DECTOHEX">DECIMAL->HEX</string>
+    <string name="HEXTODEC">HEX->DECIMAL</string>
+    <string name="textview">Number Conversion</string>
+    <string name="Dec">Enter Decimal:</string>
+    <string name="Bin">Binary Number:</string>
+    <string name="Decbin">Decimal to Binary Conversion:</string>
+    <string name="BinDec">Binary to Decimal Conversion:</string>
+</resources>
